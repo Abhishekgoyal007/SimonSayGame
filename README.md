@@ -2,8 +2,7 @@
 
 Welcome to **Simon Says Game**! Test your memory and reflexes by following the flashing color sequences and see how far you can go. As the levels increase, so does the challenge! 
 
-![Simon Says Game Screenshot](https://via.placeholder.com/400)  
-*Image showing gameplay interface*
+![image](https://github.com/user-attachments/assets/392550c6-fa64-44a5-a112-d54d7e90fd21)
 
 ## 🚀 Features
 ✨ **Dynamic Gameplay**: Each level adds a new step to the sequence, making it more challenging.  
